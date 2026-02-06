@@ -19,7 +19,7 @@ User → Frontend (Mobile/Web App) → Backend → AI Engine → Response to Use
 
 Components:
 - Frontend: Flutter / React
-- Backend: Node.js / Spring Boot
+- Backend: Node.js / Django
 - AI Layer: Multilingual AI model
 - Speech Services: Speech-to-Text & Text-to-Speech
 - Database: Firebase / MongoDB
@@ -41,7 +41,7 @@ User Flow:
 # 4. Technology Stack
 
 Frontend: Flutter / React  
-Backend: Node.js / Spring Boot  
+Backend: Node.js / Django
 AI: Multilingual Language Model  
 Database: Firebase / MongoDB  
 Tools: Git, Figma, Postman  
