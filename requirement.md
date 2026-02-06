@@ -1,5 +1,5 @@
 
- Local Language AI Public Assistant
+ # Local Language AI Public Assistant
 
 # 1. Functional Requirements
 - User can select preferred language
