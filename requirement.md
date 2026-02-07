@@ -27,8 +27,9 @@
 - Operating System: Android / iOS / Windows / Linux
 - Browser (for web version)
 - Flutter SDK / Node.js / Java
-- Database: Firebase / MongoDB
+- Database: Postgree / MongoDB
 - Speech-to-Text and Text-to-Speech APIs
+  
 ## 5. External Dependencies
 - Government data sources
 - Scholarship and career databases
