@@ -18,11 +18,12 @@ Flow:
 User → Frontend (Mobile/Web App) → Backend → AI Engine → Response to User
 
 Components:
-- Frontend: Flutter / React
-- Backend: Node.js / Django
+- Frontend: React / Next.js
+- App dev : Flutter
+- Backend: Django Rest Framework
 - AI Layer: Multilingual AI model
 - Speech Services: Speech-to-Text & Text-to-Speech
-- Database: Firebase / MongoDB
+- Database: Postgree / MongoDB
 
 # 3. UI/UX Design
 Design Principles:
@@ -40,10 +41,10 @@ User Flow:
 
 # 4. Technology Stack
 
-Frontend: Flutter / React  
-Backend: Node.js / Django
+Frontend:  React / Next.js  
+Backend: Django Rest Framework
 AI: Multilingual Language Model  
-Database: Firebase / MongoDB  
+Database: Postgree / MongoDB  
 Tools: Git, Figma, Postman  
 
 # 5. Design Decisions
