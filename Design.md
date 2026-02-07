@@ -23,7 +23,7 @@ Components:
 - Backend: Django Rest Framework
 - AI Layer: Multilingual AI model
 - Speech Services: Speech-to-Text & Text-to-Speech
-- Database: Postgree / MongoDB
+- Database: PostgreSQL  / MongoDB
 
 # 3. UI/UX Design
 Design Principles:
@@ -44,7 +44,7 @@ User Flow:
 Frontend:  React / Next.js  
 Backend: Django Rest Framework
 AI: Multilingual Language Model  
-Database: Postgree / MongoDB  
+Database: PostgreSQL  / MongoDB  
 Tools: Git, Figma, Postman  
 
 # 5. Design Decisions
